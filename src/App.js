@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef, useCallback } from "react";
 
-
 // @@SECTION:PALETTE
 const C = {
   bg:"#050d14", panel:"#0a1a26", panel2:"#0d2235",
@@ -955,5 +954,4 @@ export default function Arcadia() {
     </div>
   );
 }
-
-
+export default Arcadia;
